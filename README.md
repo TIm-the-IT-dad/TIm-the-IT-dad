@@ -1,4 +1,4 @@
-<h1>Hi, I'm Tim, an <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BkCoyIn2MTTqezGQKh8HQig%3D%3D">IT Professional</a>☺</h1>
+<h1>Hi, I'm Tim, an <a href="https://www.linkedin.com/in/timothy-meyer-/?trk=public_profile-settings_edit-profile-content">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
