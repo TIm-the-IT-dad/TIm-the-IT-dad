@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello my name is Timothy Meyer
 
 <!--
 **TIm-the-IT-dad/TIm-the-IT-dad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
