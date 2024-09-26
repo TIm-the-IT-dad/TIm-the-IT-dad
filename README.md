@@ -1,4 +1,4 @@
-<h1>Hi, I'm Tim, an <a href="www.linkedin.com/in/timothy-meyer-258483328">IT Professional</a>☺</h1>
+<h1>Hi, I'm Tim, an <a href="www.linkedin.com/in/timothy-meyer">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
