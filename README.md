@@ -7,11 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/TIm-the-IT-dad/osticket-post-installation)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/TIm-the-IT-dad/ticket-lifecycle)
 - <b>Microsoft Azure (Configuring Active Directory within Azure VMs)</b>
-  - [Preparing Active Directory Infrastructure](https://github.com/TIm-the-IT-dad/configure-ad)
-  - [Deploying Active Directory](https://github.com/TIm-the-IT-dad/configure-ad)
-  - [Creating Users With PowerShell](https://github.com/TIm-the-IT-dad/configure-ad)
-  - [Group Policy and Managing Accounts](https://github.com/TIm-the-IT-dad/configure-ad)
-  - [Practicing with DNS](https://github.com/TIm-the-IT-dad/configure-ad)
+  - [Active Directory Configuration](https://github.com/TIm-the-IT-dad/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/TIm-the-IT-dad/azure-network-protocols)
 - <b>VPN Lab</b>
   -
