@@ -6,8 +6,8 @@
   - [osTicket: Prerequisites and Installation](https://github.com/TIm-the-IT-dad/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/TIm-the-IT-dad/osticket-post-installation)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/TIm-the-IT-dad/ticket-lifecycle)
-- <b>Microsoft Azure (Configuring Active Directory within Azure VMs)</b>
-  - [Active Directory Configuration](https://github.com/TIm-the-IT-dad/configure-ad)
+- <b>Microsoft Azure</b>
+  - [Configuring Active Directory within Azure VMs](https://github.com/TIm-the-IT-dad/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/TIm-the-IT-dad/azure-network-protocols)
 - <b>VPN Lab</b>
   -
